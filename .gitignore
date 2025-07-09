@@ -2,8 +2,8 @@
 node_modules/
 
 # Environment and config files
-backend/.env
-backend/config.json
+.env
+
 
 # Logs
 *.log
