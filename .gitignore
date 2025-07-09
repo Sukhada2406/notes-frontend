@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Environment and config files
+backend/.env
+backend/config.json
+
+# Logs
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+
+# OS-specific
+.DS_Store
